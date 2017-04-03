@@ -1,5 +1,5 @@
 {
-  "name": "safeGet",
+  "name": "simple-safe-get",
   "version": "0.0.1",
   "description": "A lightweight safe get for javascript",
   "main": "build/index.js",
@@ -20,7 +20,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sespinosa/safeGet.git"
+    "url": "git+https://github.com/sespinosa/simple-safe-get.git"
   },
   "keywords": [
     "es6",
@@ -28,7 +28,7 @@
     "babel"
   ],
   "bugs": {
-    "url": "https://github.com/sespinosa/safeGet/issues"
+    "url": "https://github.com/sespinosa/simple-safe-get/issues"
   },
-  "homepage": "https://github.com/sespinosa/safeGet#readme"
+  "homepage": "https://github.com/sespinosa/simple-safe-get#readme"
 }

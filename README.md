@@ -1,4 +1,4 @@
-## safeGet
+## simple-safe-get
 
 
 ### Build
@@ -18,14 +18,14 @@ This microlib only supports ES6 import, if anyone needs this in the browser open
 ### Intall
 
 ```
-npm i safeGet
+npm i simple-safe-get
 ```
 
 
 ### Example
 
 ```
-import safeGet from 'safeGet'
+import safeGet from 'simple-safe-get'
 
 
 const test = {
