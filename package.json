@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-es6-boilerplate",
+  "name": "safeGet",
   "version": "0.0.1",
-  "description": "Boilerplate for nodejs using es6",
+  "description": "A lightweight safe get for javascript",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,7 +20,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sespinosa/nodejs-es6-boilerplate.git"
+    "url": "git+https://github.com/sespinosa/safeGet.git"
   },
   "keywords": [
     "es6",
@@ -28,7 +28,7 @@
     "babel"
   ],
   "bugs": {
-    "url": "https://github.com/sespinosa/nodejs-es6-boilerplate/issues"
+    "url": "https://github.com/sespinosa/safeGet/issues"
   },
-  "homepage": "https://github.com/sespinosa/nodejs-es6-boilerplate#readme"
+  "homepage": "https://github.com/sespinosa/safeGet#readme"
 }
